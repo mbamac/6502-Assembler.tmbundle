@@ -53,7 +53,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\!(cpu)\b</string>
+			<string>\!(cpu)\s+(65c?02|6510|65816|c64dtv2)</string>
 			<key>name</key>
 			<string>constant.language</string>
 		</dict>
